@@ -1,0 +1,1 @@
+Zeitmanagement/Bucket-List wird über Office-Planner umgesetzt.
