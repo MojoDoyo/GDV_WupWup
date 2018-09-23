@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 8107a1db95efbf140b9be346e6f40554
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: accroche_1
+    100002: cable
+    100004: canon
+    100006: Cylinder
+    100008: //RootNode
+    100010: fusil
+    100012: Sphere
+    400000: accroche_1
+    400002: cable
+    400004: canon
+    400006: Cylinder
+    400008: //RootNode
+    400010: fusil
+    400012: Sphere
+    2100000: antenne
+    2100002: accroche
+    2100004: cable
+    2100006: fusil
+    2100008: canon
+    2100010: corps
+    2300000: accroche_1
+    2300002: cable
+    2300004: canon
+    2300006: Cylinder
+    2300008: fusil
+    2300010: Sphere
+    3300000: accroche_1
+    3300002: cable
+    3300004: canon
+    3300006: Cylinder
+    3300008: fusil
+    3300010: Sphere
+    4300000: Cylinder
+    4300002: accroche_1
+    4300004: cable
+    4300006: fusil
+    4300008: canon
+    4300010: Sphere
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: accroche
+    second: {fileID: 2100000, guid: 3f4d9996da05c214eb91e0cd1ea87897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: antenne
+    second: {fileID: 2100000, guid: 81a6e7cf41354e1469503b25485b1b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable
+    second: {fileID: 2100000, guid: fde5d4f01347cb34da86891f22a328fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: canon
+    second: {fileID: 2100000, guid: 00ff2fcde0cdb2b42bf4377b4aa8a069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: corps
+    second: {fileID: 2100000, guid: 24d0d6b001e941148b14a257eb2fb9d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fusil
+    second: {fileID: 2100000, guid: 8f2725bc50410154ebdf0ece0e62944f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drone_fufu_collpase_accroche_BaseColor
+    second: {fileID: 2800000, guid: 1dc78779bcba5144c8f5ec895dccf725, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drone_fufu_collpase_antenne_BaseColor
+    second: {fileID: 2800000, guid: 1485f293e21761c42885cd61cf872e0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drone_fufu_collpase_cable_BaseColor
+    second: {fileID: 2800000, guid: d5b4719a952645a478c75094a7ca4aad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drone_fufu_collpase_canon_BaseColor
+    second: {fileID: 2800000, guid: a445ce52266dce14cb8a397076852081, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drone_fufu_collpase_corps_BaseColor
+    second: {fileID: 2800000, guid: d5eea9ebb2378d748852aa4b74779dc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drone_fufu_collpase_fusil_BaseColor
+    second: {fileID: 2800000, guid: 16e7c0c738af5b04c88761a0129fc4a1, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
