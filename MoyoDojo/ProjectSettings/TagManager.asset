@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Playground
+  - Towerbase
+  - Bullet
+  - Tower
+  - TurretBullet
+  - WalkAgent
+  - Weapon
+  - Hammer
+  - UI
+  - GameMaster
+  - CantUpgradeGUI
+  - MainMenue
+  - Arm
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - arm
+  - gun
+  - hammer
+  - 
+  - 
+  - 
+  - 
+  - test
+  - 
+  - 
+  - 
+  - 
+  - EdgeWall
+  - Playground
+  - WalkAgent
+  - Player
+  - Bullet
+  - Turret
+  - NPC
+  - TurretBullet
+  - TowerBase
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

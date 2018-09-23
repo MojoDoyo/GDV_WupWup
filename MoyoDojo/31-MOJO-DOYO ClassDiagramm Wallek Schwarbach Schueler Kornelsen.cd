@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="NPCExitReached" Collapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABQAAAAAAAAEg=</HashCode>
+      <FileName>Assets\Code\Destination\NPCExitReached.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckCost" Collapsed="true">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAACAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Menu\CheckCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverMenu" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIAAAAAAIAAAAAAAAAAAAAAAAgAgEA=</HashCode>
+      <FileName>Assets\Code\Menu\GameOverMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQRSAIAAAAAAAQIAIBABoIIAAAJgMEOAAgQgAAEAAGA=</HashCode>
+      <FileName>Assets\Code\Menu\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseSkript" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQgAAAAAAAAAAIAABAAAIAAAAAAgAAgAQAAAAgIgEA=</HashCode>
+      <FileName>Assets\Code\Menu\PauseSkript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinnerTitle" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAABAAMAAQAACABQAAAAAAAAAACCAAEAAEA=</HashCode>
+      <FileName>Assets\Code\Menu\WinnerTitle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCMove" Collapsed="true">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAACAAACAAAAAAAAAAAAAAAAAQAAAAAAEAQEA=</HashCode>
+      <FileName>Assets\Code\NPC\NPCMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCStats" Collapsed="true">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAAAAAAAAAEAABARAEBAEAAAgAAAAgAAAEEA=</HashCode>
+      <FileName>Assets\Code\NPC\NPCStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RandomSpawn" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAAAAAACAAAAAAAEAAAAAQAAAAAAAAAAAAAAAAACg=</HashCode>
+      <FileName>Assets\Code\NPC\RandomSpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaveSpawner" Collapsed="true">
+    <Position X="8" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="WaveSpawner.Difficulty" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Code\NPC\WaveSpawner.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BEQAygEAAGEAQAYEAEAAAAAIAAQCMRCACAQRAIgwBGA=</HashCode>
+      <FileName>Assets\Code\NPC\WaveSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArmController" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Player\ArmController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletController" Collapsed="true">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACCAAQAAAAAAAAAAAAAAAAAAAQAIAAAAIAAA=</HashCode>
+      <FileName>Assets\Code\Player\BulletController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera_Control" Collapsed="true">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAAARAAEAAAAAAAAAAAAAAAACAAgAAAA=</HashCode>
+      <FileName>Assets\Code\Player\Camera_Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroundPlacementController" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUQgAAQACYAAgIAAEkgAAIACAEAgAhAAEAKAAIQkEE=</HashCode>
+      <FileName>Assets\Code\Player\GroundPlacementController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jump" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAgAAAAAAQIAAAAAAACAAAAAAAABAAAAAQAAAEA=</HashCode>
+      <FileName>Assets\Code\Player\Jump.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneySystem" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEIAACAAAAIAAAAAABAAAKAAAQAAAAAAAAAAEGA=</HashCode>
+      <FileName>Assets\Code\Player\MoneySystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_Movement" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAggAACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Player\Player_Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerSkills" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAACAgAIIgABAAAAAAABAAAAAAAAAAAQEEAgQ=</HashCode>
+      <FileName>Assets\Code\Player\PlayerSkills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStats" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAAAAAAAAAAAAAABAABEkAAkAAAAAgAAAAEA=</HashCode>
+      <FileName>Assets\Code\Player\PlayerStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShootController" Collapsed="true">
+    <Position X="8" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAIAAAJAAAAAAgAAAAAAAAAABhAAAAAAQEA=</HashCode>
+      <FileName>Assets\Code\Player\ShootController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IceTurret" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Turrets\IceTurret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerBaseStats" Collapsed="true">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Code\Turrets\TowerBaseStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turret" Collapsed="true">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QFQJEABIAGJAAIIAIAgAGgAAAAoQAAAAAAABAAAQAEA=</HashCode>
+      <FileName>Assets\Code\Turrets\Turret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurretBullet" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAACIAQAAAAAAAAAAAAAAAAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Code\Turrets\TurretBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UpgradeTurret" Collapsed="true">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQgECQIAABAEAIMQAkTASYIMICBEQAQAADCBBkwgEA=</HashCode>
+      <FileName>Assets\Code\Turrets\UpgradeTurret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tutorial" Collapsed="true">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUBKAAAiAQgAAAAICgAABAAIBBEAAkkAIgAAAEAAEA=</HashCode>
+      <FileName>Assets\Code\Tutorial\Tutorial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraMouseDrag" Collapsed="true">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAKAAAIIEBAEAAAgAAAARAAACECAA=</HashCode>
+      <FileName>Assets\Loaded Assets\Sci Fi Assets\Simple SciFi Gun Turret Set\Scripts\CameraMouseDrag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraMouseRotate" Collapsed="true">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Loaded Assets\Sci Fi Assets\Simple SciFi Gun Turret Set\Scripts\CameraMouseRotate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveMe" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Loaded Assets\Sci Fi Assets\Simple SciFi Gun Turret Set\Scripts\MoveMe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
